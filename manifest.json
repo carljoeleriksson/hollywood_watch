@@ -1,0 +1,27 @@
+{
+	"name": "Hollywood Watch",
+	"short_name": "HLYWD Watch",
+	"description": "An app for listing and reviewing your favourite movies.",
+	"theme_color": "#262937",
+	"background_color": "#262937",
+	"icons": [{
+		"src": "assets/icons/hw-icon_192.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	}, {
+		"src": "assets/icons/hw-icon_512.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	}],
+	"screenshots": [{
+		"src": "assets/screenshots/hw-screenshot_1.png",
+		"sizes": "1234×1866",
+		"type": "image/png"
+	}],
+	
+	"start_url": "./index.html",
+	"display": "standalone",
+	"orientation": "portrait-primary",
+	"lang": "en-US",
+	"dir": "auto"
+}
